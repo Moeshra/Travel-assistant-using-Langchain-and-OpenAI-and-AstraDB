@@ -1,5 +1,5 @@
 # Travel-assistant-using-Langchain-and-OpenAI-and-AstraDB
-An bot to get information about bookings, make bookings and answer client questions. 
+A bot to get information about bookings, make bookings and answer client questions. 
 Technologies: OpenAI, Langchain, AstraDB 
 
 Desciption is coming soon. 
